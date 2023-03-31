@@ -1,0 +1,13 @@
+html {
+  font-size: 32vw;
+}
+body {
+  padding: 14px 20px;
+}
+
+@media screen and (min-width: 900px) {
+  body {
+    width: 400px;
+    margin: 0 auto;
+  }
+}
